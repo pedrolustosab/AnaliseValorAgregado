@@ -26,16 +26,4 @@ O script Python realiza os seguintes cálculos:
    - Estima valores futuros de custo real e valor agregado com base no valor planejado.
    - Calcula variações simples de valor planejado e outras métricas relacionadas.
 
-## Requisitos
 
-- Python 3.x
-- Bibliotecas:
-  - pandas
-  - numpy
-  - math
-  - datetime
-  - dateutil
-
-Para instalar as bibliotecas necessárias, execute:
-```bash
-pip install pandas numpy
